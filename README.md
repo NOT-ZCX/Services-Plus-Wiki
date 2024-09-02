@@ -32,7 +32,11 @@
   </style>
 </head>
 <body>
-  <p>𝐌𝐨𝐝𝐞𝐫𝐚𝐭𝐢𝐨𝐧 𝐖𝐢𝐤𝐢\n/moderation-panel - This command will allow you to get a users server details, and perform moderation actions on the user.</p>
+  <h1>𝐌𝐨𝐝𝐞𝐫𝐚𝐭𝐢𝐨𝐧 𝐖𝐢𝐤𝐢</h1>
+  <p>/moderation-panel - This command will allow you to get a users server details, and perform moderation actions on the user.</p>
+  <p>Test</p>
+  <h2>Utility</h2>
+  <p>Test</p>
   <a href="https://services-plus.online/"><button>Back</button></a>
 </body>
 </html>
