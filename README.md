@@ -1,19 +1,17 @@
 <html>
 <head>
-  <title></title>
+  <title>Services+</title>
   <style>
     body {
-      background-color: black;
-      color: blue;
+      background-color: gray;
+      border: 5px solid blue;
     }
 
     h1 {
       background-image: url("https://media.discordapp.net/attachments/1226773758811832350/1272351421697622127/final_2.png?ex=66baa91a&is=66b9579a&hm=4bf813b6d34a607bcc61deabcb67b853e5324d683ce702a9c1d48b4b014ef727&");
       background-size: cover;
-      background-position: center;
-      text-align: center;
+      color: white;
       padding: 20px;
-      border: 1px solid blue;
     }
 
     p {
