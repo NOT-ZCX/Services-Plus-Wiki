@@ -32,7 +32,8 @@
   </style>
 </head>
 <body>
-  <p>Welcome to the Services+ Help Wiki</p>
+  <h1>Welcome to the Services+ Help Wiki</h1>
+  <p>Note: This will not have every command, or every feature, but will have most of them.</p>
   <h2>Moderation</h2>
   <p>/moderation-panel | Opens a moderation panel on a user in the server, allowing you to view their server history, and perform moderation actions on their user in the server.</p>
   <p>/kick | Kicks a given user from the server with/without reason.</p>
