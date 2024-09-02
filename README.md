@@ -32,10 +32,10 @@
   </style>
 </head>
 <body>
-  <h1>Moderation</h1>
+  <h2>Moderation</h2>
   <p>/moderation-panel | Opens a moderation panel on a user in the server, allowing you to view their server history, and perform moderation actions on their user in the server.</p>
   <p>/kick | Kicks a given user from the server with/without reason.</p>
-  <h2>Utility</h2>
+  <h3>Utility</h3>
   <p>Utility Test</p>
   <a href="https://services-plus.online/"><button>Back</button></a>
 </body>
