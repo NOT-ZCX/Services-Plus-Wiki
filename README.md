@@ -39,6 +39,10 @@
   <p>/kick | Kicks a given user from the server with/without reason.</p>
   <h3>Utility</h3>
   <p>Utility Test</p>
+  <h3>Fun</h3>
+  <p>Fun Test</p>
+  <h3>Economy</h3>
+  <p>Economy Test</p>
   <a href="https://services-plus.online/"><button>Back</button></a>
 </body>
 </html>
