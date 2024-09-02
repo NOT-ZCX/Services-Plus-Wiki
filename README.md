@@ -8,37 +8,37 @@
     }
 
     h1 {
-     background-image: url("https://media.discordapp.net/attachments/1226773758811832350/1272351421697622127/final_2.png?ex=66baa91a&is=66b9579a&hm=4bf813b6d34a607bcc61deabcb67b853e5324d683ce702a9c1d48b4b014ef727&");
-      background-size: contain;
-      background-repeat: no-repeat;
+      background-image: url("https://media.discordapp.net/attachments/1226773758811832350/1272351421697622127/final_2.png?ex=66baa91a&is=66b9579a&hm=4bf813b6d34a607bcc61deabcb67b853e5324d683ce702a9c1d48b4b014ef727&");
+      background-size: cover;
+      background-position: center;
+      text-align: center;
       padding: 20px;
-      margin-top: 0;
+      border: 1px solid blue;
     }
 
     p {
-      margin-bottom: 20px;
+      text-align: center;
     }
 
-    .button {
-      display: inline-block;
-      padding: 10px 20px;
-      background-color: blue;
-      color: black;
+    button {
+      background-color: black;
+      color: blue;
       border: 1px solid blue;
-      text-decoration: none;
-      font-size: 16px;
+      padding: 10px;
+      margin: 0 auto;
+      display: block;
+      bottom: 0;
+      position: absolute;
     }
 
-    .button:hover {
+    button:hover {
       transform: scale(1.1);
     }
   </style>
 </head>
 <body>
   <h1>Services Plus Wiki</h1>
-
-  <p>This is a wiki for Services Plus, a company that provides a variety of services to businesses and individuals. Here you can find information on our services, pricing, and contact information.</p>
-
-  <a class="button" href="https://services-plus.online/">Back</a>
+  <p>This is a wiki for Services Plus. Here you can find information about our services, our team, and our company.</p>
+  <button onclick="location.href='https://services-plus.online/';">Back</button>
 </body>
 </html>
