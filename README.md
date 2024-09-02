@@ -14,19 +14,16 @@
       padding: 20px;
     }
 
-    p {
-      text-align: center;
-    }
-
     button {
       background-color: black;
       color: blue;
-      border: 1px solid blue;
+      border: 2px solid blue;
       padding: 10px;
-      margin: 0 auto;
+      margin: 10px;
       display: block;
-      bottom: 0;
-      position: absolute;
+      width: 200px;
+      text-align: center;
+      transition: all 0.2s;
     }
 
     button:hover {
@@ -37,6 +34,6 @@
 <body>
   <h1>Services Plus Wiki</h1>
   <p>This is a wiki for Services Plus. Here you can find information about our services, our team, and our company.</p>
-  <button onclick="location.href='https://services-plus.online/';">Back</button>
+  <a href="https://services-plus.online/"><button>Back</button></a>
 </body>
 </html>
