@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Services Plus Wiki</title>
+  <title></title>
   <style>
     body {
       background-color: black;
