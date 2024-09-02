@@ -32,7 +32,6 @@
   </style>
 </head>
 <body>
-  <h1></h1>
   <p>This is a wiki for Services Plus. Here you can find information about our services, our team, and our company.</p>
   <a href="https://services-plus.online/"><button>Back</button></a>
 </body>
