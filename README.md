@@ -32,7 +32,7 @@
   </style>
 </head>
 <body>
-  <h1>Services+ Help Wiki</h1>
+  <h1></h1>
   <p>Note: This will not have every command, or every feature, but will have most of them.</p>
   <h3>Moderation</h3>
   <p>/moderation-panel | Opens a moderation panel on a user in the server, allowing you to view their server history, and perform moderation actions on their user in the server.</p>
