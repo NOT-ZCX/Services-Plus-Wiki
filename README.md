@@ -99,8 +99,8 @@
   <p>/server-status | Check a servers' remaining/current premium status/duration.</p>
   <h3>Reaction Roles</h3>
   <p>/create-reaction-role | Create a embed with upto 10 reaction roles each.</p>
-  <h3>Giveaway</h3>
-  <p>Coming soon.</p>
+  <h3>Vouch</h3>
+  <p>Coming soon...</p>
   <a href="https://services-plus.online/"><button>Back</button></a>
 </body>
 </html>
