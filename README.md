@@ -69,7 +69,6 @@
   <p>/ticket-config | Setup the servers' ticket config.</p>
   <h3>Leveling</h3>
   <p>/edit-leveling | Turn server  leveling on/off.</p>
-  <p>/level-leaderboard | Get the servers' level leaderboard.</p>
   <p>/level | Get a users' level.</p>
   <h3>Auto-Moderation</h3>
   <p>/anti-link | Toggle the user ability to send urls in the server.</p>
@@ -88,6 +87,8 @@
   <h3>Rating</h3>
   <p>/rate | Generate a rate message for the server members' to use to rate your server from 1 Star to 5 Stars.</p>
   <p>/reset-rate | Reset a users' rate status.</p>
+  <p>/translate | Translate a message to another language. (Supports upto 20 languages)</p>
+  <p>/timestamp | Get a timestamp from a date.</p>
   <h3>AI</h3>
   <p>/ai | Use the bots' ai generation, or check the bots daily ai limit.</p>
   <h3>Premium</h3>
@@ -100,6 +101,9 @@
   <p>/server-status | Check a servers' remaining/current premium status/duration.</p>
   <h3>Reaction Roles</h3>
   <p>/create-reaction-role | Create a embed with upto 10 reaction roles each.</p>
+  <h3>Suggestion System</h3>
+  <p>/suggestion-config | Setup the server's suggestion config.</p>
+  <p>/suggest | Create a suggestion.</p>
   <h3>Vouch</h3>
   <p>Coming soon...</p>
   <a href="https://services-plus.online/"><button>Back</button></a>
