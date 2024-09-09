@@ -84,11 +84,11 @@
   <p>/invite | Invite Services+ to your server.</p>
   <p>/custom-bot | Get information for a custom discord bot hosted by Services+.</p>
   <p>/advertisement | Get the Service+ advertisement message.</p>
+  <p>/translate | Translate a message to another language. (Supports upto 20 languages)</p>
+  <p>/timestamp | Get a timestamp from a date.</p>
   <h3>Rating</h3>
   <p>/rate | Generate a rate message for the server members' to use to rate your server from 1 Star to 5 Stars.</p>
   <p>/reset-rate | Reset a users' rate status.</p>
-  <p>/translate | Translate a message to another language. (Supports upto 20 languages)</p>
-  <p>/timestamp | Get a timestamp from a date.</p>
   <h3>AI</h3>
   <p>/ai | Use the bots' ai generation, or check the bots daily ai limit.</p>
   <h3>Premium</h3>
