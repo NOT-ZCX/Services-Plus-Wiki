@@ -105,7 +105,8 @@
   <p>/suggestion-config | Setup the server's suggestion config.</p>
   <p>/suggest | Create a suggestion.</p>
   <h3>Vouch</h3>
-  <p>Coming soon...</p>
+  <p>/vouch | Vouch a server, vouches are vouched to the server owner.</p>
+  <p>/vouch-profile | View someones total, positive, and negative vouchs.</p>
   <a href="https://services-plus.online/"><button>Back</button></a>
 </body>
 </html>
