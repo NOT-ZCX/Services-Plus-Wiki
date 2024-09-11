@@ -107,6 +107,9 @@
   <h3>Vouch</h3>
   <p>/vouch | Vouch a server, vouches are vouched to the server owner.</p>
   <p>/vouch-profile | View someones total, positive, and negative vouchs.</p>
+  <h3>Suggestion System</h3>
+  <p>/suggest | Suggest something to the server.</p>
+  <p>/suggestion-config | Edit the server's suggestion settings.</p>
   <a href="https://services-plus.online/"><button>Back</button></a>
 </body>
 </html>
