@@ -110,6 +110,8 @@
   <h3>Suggestion System</h3>
   <p>/suggest | Suggest something to the server.</p>
   <p>/suggestion-config | Edit the server's suggestion settings.</p>
+  <h3>AFK System</h3>
+  <p>/afk | Set your server status as AFK this. | Note: This doesn't log afk pings.</p>
   <a href="https://services-plus.online/"><button>Back</button></a>
 </body>
 </html>
