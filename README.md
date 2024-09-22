@@ -53,6 +53,7 @@
   <p>/d-size | Get a random 8=D size.</p>
   <p>/ship | Get the ship percentage of 2 users.</p>
   <p>/joke | Get a random dark joke.</p>
+  <p>/copy-emoji | Copy any custom emoji to your server.</p>
   <h3>Welcome/Goodbye</h3>
   <p>/on-join | Edit the welcome dm/channel embeds.</p>
   <p>/on-leave | Edit the goodbye channel embed.</p>
