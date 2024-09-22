@@ -44,6 +44,7 @@
   <p>/blacklist | Open a blacklist panel on a user.</p>
   <p>/role-controller | Give/Remove upto 5 roles from upto 5 users instantly.</p>
   <p>/embed | Make a fully custom embed for any channel.</p>
+  <p>/create-role | Creates a base role.</p>
   <h3>Verification</h3>
   <p>/verification-config | Setup the servers' captcha verification system.</p>
   <h3>Fun</h3>
