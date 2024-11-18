@@ -31,13 +31,17 @@ body {
 }
 
 .container {
+    display: flex;
+    flex-direction: column; /* Ensure container's direction is column */
+    justify-content: space-between; /* Space between items */
+    height: 100%; /* Full height of the body */
     text-align: center;
 }
 
 .button-container {
     display: flex;
-    flex-direction: column;
-    gap: 10px;
+    flex-direction: row; /* Align buttons next to each other */
+    gap: 10px; /* Spacing between buttons */
 }
 
 .button {
@@ -51,4 +55,9 @@ body {
 
 .button:hover {
     background-color: #2980b9;
+}
+
+/* Add this new class for positioning the last button */
+.last-button-container {
+    margin-top: auto; /* Push the last button down */
 }
