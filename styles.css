@@ -14,7 +14,7 @@ body {
     font-family: Arial, sans-serif;
     color: white;
     animation: gradientAnimation 10s ease infinite;
-    background: linear-gradient(45deg, #ff0080, #ff8c00, #40e0d0, #0080ff, #8000ff);
+    background: linear-gradient(45deg, #41ff00, #00ff92, #00fff3, #009eff, #0049ff);
     background-size: 400% 400%;
 }
 
