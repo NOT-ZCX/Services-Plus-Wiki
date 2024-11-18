@@ -9,8 +9,13 @@
         .description {
             text-align: center;
             margin-bottom: 20px;
+            flex: 1; /* Allow description to take space */
+            display: flex;
+            flex-direction: column;
+            justify-content: center; /* Center content vertically */
         }
         .back-button {
+            margin-top: auto; /* Push the button to the bottom */
             padding: 10px 20px;
             font-size: 16px;
             cursor: pointer;
@@ -19,6 +24,8 @@
             border: none;
             border-radius: 5px;
             text-decoration: none;
+            display: block; /* Ensure it behaves like a block element */
+            text-align: center; /* Center text in button */
         }
         .back-button:hover {
             background-color: #0056b3;
@@ -108,7 +115,6 @@
   <p>/suggestion-config | Edit the server's suggestion settings.</p>
   <h3>AFK System</h3>
   <p>/afk | Set your server status as AFK this. | Note: This doesn't log afk pings.</p>
-
     </div>
     <a href="https://services-plus.online/" class="back-button">Back</a>
 </body>
