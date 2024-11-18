@@ -8,7 +8,8 @@ body {
     margin: 0;
     height: 100vh;
     display: flex;
-    justify-content: center;
+    flex-direction: column; /* Ensure flex direction is column */
+    justify-content: center; /* Center vertically */
     align-items: center;
     font-family: Arial, sans-serif;
     color: white;
